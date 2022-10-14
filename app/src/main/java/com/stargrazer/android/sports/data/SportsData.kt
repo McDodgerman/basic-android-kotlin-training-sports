@@ -14,10 +14,10 @@
  * limitations under the License.
  */
 
-package com.example.android.sports.data
+package com.stargrazer.android.sports.data
 
-import com.example.android.sports.R
-import com.example.android.sports.model.Sport
+import com.stargrazer.android.sports.R
+import com.stargrazer.android.sports.model.Sport
 
 /**
  * Sports data

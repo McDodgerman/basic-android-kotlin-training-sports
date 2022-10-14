@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.example.android.sports
+package com.stargrazer.android.sports
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
@@ -23,7 +23,7 @@ import androidx.navigation.fragment.NavHostFragment
 import androidx.navigation.ui.AppBarConfiguration
 import androidx.navigation.ui.navigateUp
 import androidx.navigation.ui.setupWithNavController
-import com.example.android.sports.databinding.ActivityMainBinding
+import com.stargrazer.android.sports.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 
