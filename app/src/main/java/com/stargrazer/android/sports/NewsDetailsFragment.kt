@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.example.android.sports
+package com.stargrazer.android.sports
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -23,7 +23,7 @@ import android.view.ViewGroup
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.activityViewModels
 import coil.load
-import com.example.android.sports.databinding.FragmentSportsNewsBinding
+import com.stargrazer.android.sports.databinding.FragmentSportsNewsBinding
 
 /**
  * A simple [Fragment] subclass as the second destination in the navigation.

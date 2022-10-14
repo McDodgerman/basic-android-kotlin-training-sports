@@ -14,13 +14,13 @@
  * limitations under the License.
  */
 
-package com.example.android.sports
+package com.stargrazer.android.sports
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
-import com.example.android.sports.data.SportsData
-import com.example.android.sports.model.Sport
+import com.stargrazer.android.sports.data.SportsData
+import com.stargrazer.android.sports.model.Sport
 
 class SportsViewModel : ViewModel() {
 

@@ -13,9 +13,9 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.example.android.sports.model
+package com.stargrazer.android.sports.model
 
-import com.example.android.sports.R
+import com.stargrazer.android.sports.R
 
 /**
  * Data model for each row of the RecyclerView

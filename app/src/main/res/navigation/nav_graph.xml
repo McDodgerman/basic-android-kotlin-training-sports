@@ -23,7 +23,7 @@
 
     <fragment
         android:id="@+id/SportsListFragment"
-        android:name="com.example.android.sports.SportsListFragment"
+        android:name="com.stargrazer.android.sports.SportsListFragment"
         android:label="@string/list_fragment_label"
         tools:layout="@layout/fragment_sports_list">
 
@@ -33,12 +33,8 @@
     </fragment>
     <fragment
         android:id="@+id/SportsNewsFragment"
-        android:name="com.example.android.sports.NewsDetailsFragment"
+        android:name="com.stargrazer.android.sports.NewsDetailsFragment"
         android:label="@string/news_fragment_label"
         tools:layout="@layout/fragment_sports_news">
-
-        <action
-            android:id="@+id/action_NewsFragment_to_SportsListFragment"
-            app:destination="@id/SportsListFragment" />
     </fragment>
 </navigation>
